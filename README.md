@@ -8,13 +8,9 @@
 [Bad_USB](#bad-usb-projekt)
 - [Vorbereitungen](#vorbereitungen)
 - [Commands](#commands)
-- [Probleme](#probleme)
 - [Testen](#testen)
 
 # Erste Schritte
-
-## Allgemeine Informationen
-Hier werden die Grundlagen erklärt. Ich beschreibe, wie ich vorgegangen bin und worauf man achten sollte. Anschließend gibt es eine Dokumentation zu meinem Bad-USB-Projekt: Sicherheitsmaßnahme.
 
 ## Infrarot
 Es gibt 3 Hauptfunktionen beim Infrarot:
@@ -43,10 +39,8 @@ qFlipper ist ein Programm für den PC, das die Nutzung des Flippers erleichtert.
 
 # Bad-USB Projekt
 
-Mein Hauptprojekt war es, einen Bad USB mit einem Ducky Script zu programmieren. Das Ziel war es, auf Knopfdruck eine Sicherheitsmaßnahme auszulösen, die den Ton stummschaltet und den Laptop sperrt.
+Mein Hauptprojekt den Flipper kennenzulernen und zu verstehen wie man Scripte Programmiert.
 
-## Vorbereitungen
-Ich habe nach Ducky Script Tutorials und einer Command-Liste gesucht. Hier ist das [Ducky Script Tutorial](https://docs.hak5.org/hak5-usb-rubber-ducky) und die [Script Liste](https://gist.github.com/methanoliver/efebfe8f4008e167417d4ab96e5e3cac).
 
 ## Commands
 Einige grundlegende Commands sind:
@@ -70,8 +64,6 @@ Um ein Script auf dem Flipper auszuführen:
 2. Öffne qFlipper und gehe zum File Tab.
 3. Finde den Ordner bad-usb und ziehe die Datei per drag and drop hinein.
 4. Wähle auf dem Flipper Bad USB, dann das Script und führe es aus.
-
-Das war der Beginner Guide + EK Projekt. Im Repository ist das Script mit vielen Kommentaren, damit man den Code verstehen kann.
 
 ```python
 REM Titel: Syt_EK
