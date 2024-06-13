@@ -1,0 +1,25 @@
+REM Titel: Syt_EK
+REM Author Raphael Troppmann
+REM Version 1.2
+REM Öffnet Chrome (Browser) und Rickrollt dich. Nach 7,5 Sekunden
+REM angaben in Millisekunden
+
+REM Öffnet windows Notepad
+DELAY 500
+GUI r
+DELAY 500
+
+REM Chrome öffnen und Video abspielen
+GUI r
+DELAY 500
+STRING chrome.exe https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+DELAY 1000
+REM Vollbild
+F11
+
+REM Windows + L (Sperrt den Bildschirm)
+DELAY 7500
+GUI l
+
+ENTER
