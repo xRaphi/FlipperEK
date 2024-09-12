@@ -1,6 +1,6 @@
 REM Titel: Syt_EK
 REM Author Raphael Troppmann
-REM Version 1.2
+REM Version 1.3
 REM Öffnet Chrome (Browser) und Rickrollt dich. Nach 7,5 Sekunden
 REM angaben in Millisekunden
 
