@@ -10,7 +10,7 @@
 - [Commands](#commands)
 - [Testen](#testen)
 
-# Erste Schritte
+# Erklährung der Hauptfunktionen 
 
 ## Infrarot
 Es gibt 3 Hauptfunktionen beim Infrarot:
